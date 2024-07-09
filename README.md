@@ -1,4 +1,4 @@
-#代码
+#python代码
 importsocket
 import time
 import os
